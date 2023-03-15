@@ -1,0 +1,2 @@
+# ftbitnami
+FFT Magento
